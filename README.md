@@ -1,6 +1,6 @@
 # Restore-Export-to-S3-DynamoDB-backup
 
-**How to utilise “Export to S3” DynamoDB backup to restore DynamoDB table**
+[How to utilise “Export to S3” DynamoDB backup to restore DynamoDB table](https://poonamkucheriya.wordpress.com/2020/12/08/how-to-utilise-export-to-s3-dynamodb-backup-to-restore-dynamodb-table/)
 
 We all loved the new Export to S3 backup feature shared by DynamoDB but we can not restore the table again. I came up with a workaround to achieve that using a Python script. This script can also be used to restore backup from cross account s3 bucket and also for cross region DynamoDB tables.
 
